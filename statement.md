@@ -6,4 +6,7 @@ This Kotlin template lets you get started quickly with a simple one-page playgro
 fun main(args: Array<String>) {
     println("Hello, World!")
 }
+fun main(args : Array<String>) {
+    println("bonjour")
+}
 ```
